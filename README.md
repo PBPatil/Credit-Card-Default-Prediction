@@ -63,7 +63,7 @@ We need to build a model which will help business
 </ol></span>
 
 ### Considerations for Model Selection
-<hr/><span style="color:black; font-family: 'calibri'; font-size: 1.2em;">Based on the problem statement and goal to be achieved, we need to predict the customer payment defaults in yes or no. This indicates that this is classification problem. We have used classification algorithms such as We will be exploring following performance metrics for a model/models based on following: 
+<hr/><span style="color:black; font-family: 'calibri'; font-size: 1.2em;">Based on the problem statement, we need to predict the customer payment defaults in yes or no. This indicates that this is classification problem.Hence we have used classification algorithms and explored following performance metrics variety of models: 
 <ol>
 <li>Accuracy: Accuracy Score</li>
 <li>AUROC Score of the model.</li>
@@ -73,4 +73,4 @@ We need to build a model which will help business
 <li>Top feature importances predicted by each model</li>
 <li>Cost Factor</li>
 </ol>
-while doing so we will explore several models and try to evaluate the performance each model using these metrics to come up with our suitable recommended model as well as important features/attributes to look at for effectiveness of predictions. The selection of threshold value to decide the decision boundary is based on our intuition. </span>
+</span>
